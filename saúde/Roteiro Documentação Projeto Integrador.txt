@@ -1,0 +1,32 @@
+Roteiro para Criar a Documentação do Projeto Integrador
+
+Capa - SENAC - Título Trabalho - Nomes Alunos - Nome Professora - Mês/Ano 
+
+Escopo (Resumo)
+
+Requisitos Funcionais
+
+Requisitos Não Funcionais (aqui destaque a paleta de cores do site)
+
+Diagrama Banco de Dados
+
+Dicionário de Dados
+
+Wireframe do Site
+
+Mapa do Site
+
+Logomarca (se tiver)
+
+Telas de Algumas Partes do Site
+
+Algum código em PHP que vcs acham importante (ou consulta)
+
+Implementações Futuras
+
+Conclusão
+
+Referências - Sites e ou Livros.
+
+Tudo deve ser comentado (principalmente as imagens).
+
